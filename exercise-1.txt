@@ -5,10 +5,80 @@ exercise 1 week 2 phase 0
 
 Algoritma
 
-1. 
-2.
-3.
-4.
+1. Tentukan massa gaya 600
+2. Tentukan percepatan 2
+3. Hitung resultan gaya dengan hukum II Newton (ΣF = m x a)
+4. Kalikan massa gaya dan percepatan
+5. Hasil resultan gaya dinyatakan dengan satuan Newton
 
 Pseudocode
 
+SET "massa gaya" WITH 600
+SET "percepatan" WITH 2
+SET "resultan gaya"
+
+SET "resultan gaya" WITH CALCULATE "massa gaya" TIMES "percepatan"
+DISPLAY "resultan gaya"
+
+2)Tahun Kabisat
+
+Algoritma
+
+1. Tentukan nilai tahun
+2. Jika tahun habis di bagi  4 dan tidak habis di bagi 100
+3. atau jika tahun habis di bagi 4, habis di bagi 100 dan habis di bagi 400
+4. Tampilkan "Tahun Kabisat"
+
+Pseudocode
+
+SET "tahun"
+IF "tahun" mod 4 EQUALS 0 AND "tahun" mod 100 not EQUALS 0 THEN
+    DISPLAY "Tahun Kabisat"
+ELSE IF "tahun" mod 4 EQUALS 0 AND "tahun" mod 100 EQUALS 0 AND mod 400 EQUALS 0
+    DISPLAY "Tahun Kabisat"
+ELSE 
+    DISPLAY "Bukan Tahun Kabisat"
+ENDIF
+
+3)Laundry Day
+
+Algoritma
+
+1. Tentukan jumlah pakaian maksimal yang akan dimasukan mesin cuci
+2. Tentukan jumlah pakaian yang akan dimasukan ke mesin cuci sama dengan 20 untuk memulai mencuci
+3. Tambahkan/ masukan pakaian ke dalam mesin cuci yang akan dicuci
+4. Jika baju foxie yang di dalam mesin cuci sudah berjumlah maksimal baju maka mesin cuci di nyalakan.
+5. Jika baju foxie yang di dalam mesin cuci belum berjumlah maksimal baju, maka kembali ke step 2.
+
+Pseudocode
+
+SET "pakaianMaksimal" WITH 20
+STORE "pakaian" WITH 1
+
+	WHILE "pakaian" <= "pakaianMaksimal"
+
+		IF "pakaian" EQUALS "pakaianMaksimal" THEN
+			Display "Mulai Mencuci!"
+			return
+		END IF
+
+		DO "Masukkan pakaian ke dalam mesin cuci yang akan di cuci"
+		ADD "pakaian" by 1
+	ENDWHILE
+
+4) Periksa Kuku
+
+Algoritma
+
+1. Tentukan 40 kuku siswa yang akan diperiksa
+2. Jika guru menemukan siswa/siswi yang memiliki kuku panjang  maka siswa/siswi akan dihukum
+3. jika tidak maka siswa/siswi dipuji
+
+Pseudocode
+
+SET "siswa/siswi"
+IF "siswa/siswi" EQUALS "panjang"
+    DISPLAY "dihukum"
+ELSE 
+    DISPLAY "siswa/siswi" EQUALS "dipuji"
+ENDIF
