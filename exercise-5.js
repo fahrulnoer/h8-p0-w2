@@ -61,6 +61,6 @@ var fifthWordLength = fifthWord4.length;
 
 console.log('First Word: ' + exampleFirstWord4 + ', with length: ' + firstWordLength);
 console.log('Second Word: ' + secondWord4 + ', with length: ' + secondWordLength);
-console.log('Third Word: ' + thirdWord4) + ', with length: ' + thirdWordLength;
+console.log('Third Word: ' + thirdWord4 + ', with length: ' + thirdWordLength);
 console.log('Fourth Word: ' + fourthWord4 + ', with length: ' + fourthWordLenght);
 console.log('Fifth Word: ' + fifthWord4 + ', with length: ' + fifthWordLength);
