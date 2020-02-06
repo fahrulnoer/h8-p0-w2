@@ -7,48 +7,48 @@ Hacktiv8 Phase 0 Week 2: The World of JavaScript
 
 ## Task 2 ✔
 [Question](https://www.codecademy.com/learn/introduction-to-javascript)
-| [Answer](https://github.com/fahrulnoer/h8-p0-w2/blob/master/exercise-2.png)
+| [Answer](https://raw.githubusercontent.com/fahrulnoer/h8-p0-w2/master/exercise-2.png)
 
-## Task 3 
+## Task 3 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-menggunakan-if-else.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w2/blob/master/exercise-3.js)
 
-## Task 4 
+## Task 4 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-switch-case.md)
 | [Answer](https://github.com/fahrulnoer/h8-p0-w2/blob/master/exercise-4.js)
 
-## Task 5 
+## Task 5 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-main-string.md)
-| [Answer]()
+| [Answer](https://github.com/fahrulnoer/h8-p0-w2/blob/master/exercise-5.js)
 
-## Task 6 
+## Task 6 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-main-loop.md)
-| [Answer]()
+| [Answer](https://github.com/fahrulnoer/h8-p0-w2/blob/master/exercise-6.js)
 
-## Task 7 
+## Task 7 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-main-loop-asterisks.md)
-| [Answer]()
+| [Answer](https://github.com/fahrulnoer/h8-p0-w2/blob/master/exercise-7.js)
 
-## Task 8 
+## Task 8 ✔
 [Question](https://www.codecademy.com/learn/introduction-to-javascript)
-| [Answer]()
+| [Answer](https://github.com/fahrulnoer/h8-p0-w2/blob/master/exercise-8.png)
 
-## Task 9 
+## Task 9 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/anchor-basic-function.md)
-| [Answer]()
+| [Answer](https://github.com/fahrulnoer/h8-p0-w2/blob/master/exercise-9.js)
 
-## Task 10 
+## Task 10 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-bandingkan-angka.md)
-| [Answer]()
+| [Answer](https://github.com/fahrulnoer/h8-p0-w2/blob/master/exercise-10.js)
 
-## Task 11 
+## Task 11 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-balik-kata.md)
-| [Answer]()
+| [Answer](https://github.com/fahrulnoer/h8-p0-w2/blob/master/exercise-11.js)
 
-## Task 12 
+## Task 12 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-konversi-menit.md)
-| [Answer]()
+| [Answer](https://github.com/fahrulnoer/h8-p0-w2/blob/master/exercise-12.js)
 
-## Task 13 
+## Task 13 ✔
 [Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-x-dan-o.md)
-| [Answer]()
+| [Answer](https://github.com/fahrulnoer/h8-p0-w2/blob/master/exercise-13.js)
